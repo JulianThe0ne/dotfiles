@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ju.afonso61@gmail.com
+	name = Julien Afonso
